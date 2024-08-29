@@ -1,6 +1,6 @@
 # OpenLDAP & WebUI on Docker🐳 🚀
 
-Welcome to the **OpenLDAP WebUI Docker** project! This repository provides a Docker setup for running OpenLDAP with a web-based user interface, making it easier to manage and interact with your LDAP server.
+Welcome to the **OpenLDAP & WebUI on Docker🐳** project! This repository provides a Docker setup for running OpenLDAP with a web-based user interface, making it easier to manage and interact with your LDAP server.
 
 ## 📦 Features
 
@@ -73,10 +73,6 @@ We welcome contributions to improve this project! If you have suggestions or iss
 ## 💖 Donate
 
 If you appreciate this project and would like to support its development, please consider donating. You can find more information and donate [here](https://github.com/samsesh/donate).
-
-## 📫 Contact
-
-For any questions or feedback, feel free to [open an issue](https://github.com/samsesh/openldap-webui-docker/issues) or reach out through the project's [Discussions](https://github.com/samsesh/openldap-webui-docker/discussions).
 
 ---
 
