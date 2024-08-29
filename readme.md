@@ -1,4 +1,4 @@
-# OpenLDAP WebUI Docker 🚀
+# OpenLDAP & WebUI on Docker🐳 🚀
 
 Welcome to the **OpenLDAP WebUI Docker** project! This repository provides a Docker setup for running OpenLDAP with a web-based user interface, making it easier to manage and interact with your LDAP server.
 
