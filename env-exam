@@ -1,8 +1,8 @@
 # LDAP Configuration
 CONTAINER_NAME=openldap
 ORG=SamSam Lab
-DOMAIN=samsesh.local
-ADMIN_USER=samsesh
+DOMAIN=example.com
+ADMIN_USER=admin
 ADMIN_PASS=admin
 CONFIG_PASS=config_password
 READONLY_USER=true
