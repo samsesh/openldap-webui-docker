@@ -1,0 +1,18 @@
+# LDAP Configuration
+CONTAINER_NAME=openldap
+ORG=SamSam Lab
+DOMAIN=samsesh.local
+ADMIN_USER=samsesh
+ADMIN_PASS=admin
+CONFIG_PASS=config_password
+READONLY_USER=true
+READONLY_USER_NAME=user
+READONLY_USER_PASS=pass
+PORT=389
+HTTPS_PORT=636
+
+# phpLDAPadmin Configuration
+ADMIN_CONTAINER_NAME=phpldapadmin
+LDAP_HOST=${CONTAINER_NAME}
+HTTPS=false
+ADMIN_PORT=8080
